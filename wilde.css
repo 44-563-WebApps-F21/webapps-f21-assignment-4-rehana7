@@ -67,11 +67,15 @@ h6.ALICE:hover {
     font-size: 20px;
   }
   
-  .navigation a:hover {
+.navigation a:hover {
     background-color: yellow;
   } 
-
-  .Nav {
+@media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+}
+.Nav {
       background-color: greenyellow;
   }
-  
