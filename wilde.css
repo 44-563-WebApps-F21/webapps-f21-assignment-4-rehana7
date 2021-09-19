@@ -52,4 +52,26 @@ h6.ALICE:hover {
     text-shadow: 2px 3px 5px rgba(118, 22, 245, 0.548);
     border-style: double;
 }
-             
+
+.navigation {
+    background-color: greenyellow;
+    width: 100%;
+    overflow: auto;
+
+}
+
+.navigation a {
+    float: left;
+    padding: 11px;
+    color:red;
+    font-size: 20px;
+  }
+  
+  .navigation a:hover {
+    background-color: yellow;
+  } 
+
+  .Nav {
+      background-color: greenyellow;
+  }
+  
