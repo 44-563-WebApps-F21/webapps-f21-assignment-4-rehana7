@@ -35,5 +35,21 @@ th,td{
 tr:nth-child(even) {
     background-color: #88f76c8f;
   } 
-  th{color:coral;}
+  th{color:coral;} 
+  h6.ALLONBY:hover {
+      text-shadow:2px 3px 5px rgba(118, 22, 245, 0.548);
+      border-style: double;
+  } 
+  h6.LADY_HUNSTANTON:hover {
+    text-shadow:2px 3px 5px rgba(118, 22, 245, 0.548);
+    border-style: double;
+}
+h6.GERALD:hover {
+    text-shadow:2px 3px 5px rgba(118, 22, 245, 0.548);
+    border-style: double;
+}
+h6.ALICE:hover {
+    text-shadow: 2px 3px 5px rgba(118, 22, 245, 0.548);
+    border-style: double;
+}
              
