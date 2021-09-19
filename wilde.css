@@ -20,6 +20,9 @@ h6.LADY_HUNSTANTON{ color: rgba(255, 47, 134, 0.589);
 h6.GERALD{ color:rgb(10, 241, 29);
                 font-family :Times;
                font-size : 32}   
+ h6.ALICE{ color:rgba(241, 151, 33, 0.493);
+                font-family :Arial;
+               font-size : 32}                 
 table,th,td{
     border:2px solid blue ;
     text-align: center ;
