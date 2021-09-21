@@ -97,4 +97,11 @@ h6.ALICE:hover {
     content: "";
     clear: both;
     display: table;
+  } 
+
+  body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
   }
